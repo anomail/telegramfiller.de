@@ -1,3 +1,3 @@
-# Telegram Group Filler Service by KryptoHash
+Telegram Group Filler Service by KryptoHash
 
 You are Gay
