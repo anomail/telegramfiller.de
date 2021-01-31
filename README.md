@@ -1,3 +1,3 @@
-Telegram Group Filler Service by
+Telegram Group Filler Service
 
-You are Gay
+Soon Available!
